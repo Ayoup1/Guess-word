@@ -9,9 +9,7 @@ docker-compose build
 docker-compose up
 ```
 
-### Gif Demo 
-
-<img src="https://media.giphy.com/media/MAdNbpqyoVdhlsLP1B/giphy.gif"  />
+### video Demo 
 
 [![Demo video](https://media.giphy.com/media/MAdNbpqyoVdhlsLP1B/giphy.gif)](https://drive.google.com/file/d/1_o9zaqdqAOe8ErHY_jetBwByVVpRc5hj/view?usp=sharing)
 
